@@ -1,0 +1,2 @@
+Hi, this is Sammy writting. 
+I used 'nano' command to edit this file. 
